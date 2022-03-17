@@ -4,7 +4,7 @@ Example 001
 
 **Mini-ImageNet**
 
-![tabla_Mini_ImageNet](https://user-images.githubusercontent.com/101822861/158885500-00fe4d02-fda9-4c88-9059-3e4f79c2927d.svg)
+![tabla_Mini_ImageNet](https://user-images.githubusercontent.com/101822861/158887376-d1e98a8a-ed06-45a0-bef4-7bb9445c9776.svg)
 
 
 **CUB**
