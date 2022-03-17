@@ -5,6 +5,8 @@
 ```diff
 - Artificial Intelligence Review
   Eduardo Rivas-Posada, Mario I. Chacon-Murguia
+  Visual Perception Laboratory
+  Tecnologico Nacional de Mexico/Instituto Tecnologico de Chihuahua
   Paper URL
 ```
 Meta- and Base-Tasks Generation Scheme for the Mini-ImageNet and Caltech-UCSD Birds-200-2011 (CUB) datasets
