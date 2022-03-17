@@ -9,7 +9,8 @@
   Tecnologico Nacional de Mexico/Instituto Tecnologico de Chihuahua
   Paper URL
 ```
-Meta- and Base-Tasks Generation Scheme for the Mini-ImageNet and Caltech-UCSD Birds-200-2011 (CUB) datasets
+**Task Generation Scheme**
+<br/>Meta- and Base-Tasks Generation Scheme for the Mini-ImageNet and Caltech-UCSD Birds-200-2011 (CUB) datasets
 
 
 **Mini-ImageNet dataset**
