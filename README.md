@@ -1,27 +1,12 @@
 # Example_001
 Example 001
 
-|**Meta-Task 1**           |Meta-Task 2          |Meta-Task 3           |Meta-Task 4                |Meta-Task 5               |
-|----------------------|---------------------|----------------------|---------------------------|--------------------------|
-|n03337140	/nFile	     |n02110063	Malamute	 |n03017168	Chime		    |n04612504	Yawl	          |n02114548	White_wolf     |
-|n02795169	Barrel		 |n02823428	Beer_bottle|n02747177	Ashcan		  |n03838899	Oboe		        |n03272010	Electric_guitar|
-|n03775546	Mixing_bowl|n01981276	King_crab	 |n04443257	Tobacco_shop|n02105505	Komondor		    |n06794110	Street_sign    |
-|n03220513	Dome		   |n02074367	Dugong		 |n03207743	Dishrag		  |n04296562	Stage		        |n13133613	Ear            |
-|n01770081	Harvestman |n04389033	Tank		   |n09246464	Cliff		    |n02457408	Three-toed_sloth|n03773504	Missile        |
+
+**Mini-ImageNet**
+
+![tabla_Mini_ImageNet](https://user-images.githubusercontent.com/101822861/158885500-00fe4d02-fda9-4c88-9059-3e4f79c2927d.svg)
 
 
+**CUB**
 
-
-
-<img src="https://user-images.githubusercontent.com/101822861/158867652-a13f21bb-46f2-444d-938e-ef845f39c8fd.jpg" width="1024" height="480">
-
-
-
-<img src="https://user-images.githubusercontent.com/101822861/158875506-0c256ab1-79aa-467b-8233-b2d7930605a7.jpg" width="1024" height="480">
-
-
-<img src="https://user-images.githubusercontent.com/101822861/158876226-eb615283-a770-4aa3-b5ec-46de593add7a.jpg" width="512" height="256">
-
-
-![8tabla_MiniImage_Net7](https://user-images.githubusercontent.com/101822861/158877272-0b969dcb-7650-4ba7-86c1-e966095b7238.jpg)
-
+![tabla_CUB](https://user-images.githubusercontent.com/101822861/158886820-3fd33ab7-22a0-46d6-9e9d-800976328ff7.svg)
