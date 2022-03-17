@@ -12,4 +12,16 @@ Example 001
 
 
 
-![tabla_MiniImage_Net3](https://user-images.githubusercontent.com/101822861/158867652-a13f21bb-46f2-444d-938e-ef845f39c8fd.jpg)
+
+
+<img src="https://user-images.githubusercontent.com/101822861/158867652-a13f21bb-46f2-444d-938e-ef845f39c8fd.jpg" width="1024" height="480">
+
+
+
+<img src="https://user-images.githubusercontent.com/101822861/158875506-0c256ab1-79aa-467b-8233-b2d7930605a7.jpg" width="1024" height="480">
+
+
+<img src="https://user-images.githubusercontent.com/101822861/158876226-eb615283-a770-4aa3-b5ec-46de593add7a.jpg" width="512" height="256">
+
+
+![8tabla_MiniImage_Net7](https://user-images.githubusercontent.com/101822861/158877272-0b969dcb-7650-4ba7-86c1-e966095b7238.jpg)
