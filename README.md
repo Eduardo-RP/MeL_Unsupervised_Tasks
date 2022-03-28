@@ -3,11 +3,11 @@
 
 
 ```diff
-- Artificial Intelligence Review
+- IEEE Transactions on Neural Networks and Learning Systems
   Eduardo Rivas-Posada, Mario I. Chacon-Murguia
   Visual Perception Laboratory
   Tecnologico Nacional de Mexico/Instituto Tecnologico de Chihuahua
-  Paper URL
+  Paper under review
 ```
 **Task Generation Scheme**
 <br/>Meta- and Base-Tasks Generation Scheme for the Mini-ImageNet and Caltech-UCSD Birds-200-2011 (CUB) datasets
