@@ -1,5 +1,5 @@
 
-# A Novel Meta-Unsupervised Algorithm and a New Task Distribution Scheme for the Meta-Learning Paradigm
+# A Novel Meta-Unsupervised Algorithm and a New Task Distribution Scheme for Few-Shot Meta-Learning
 
 
 ```diff
