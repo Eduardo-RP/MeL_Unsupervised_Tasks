@@ -3,7 +3,6 @@
 
 
 ```diff
-- Applied Intelligence
   Eduardo Rivas-Posada, Mario I. Chacon-Murguia
   Visual Perception Laboratory
   Tecnologico Nacional de Mexico/Instituto Tecnologico de Chihuahua
