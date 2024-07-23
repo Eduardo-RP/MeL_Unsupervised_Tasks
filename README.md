@@ -5,7 +5,6 @@
   Eduardo Rivas-Posada, Mario I. Chacon-Murguia
   Visual Perception Laboratory
   Tecnologico Nacional de Mexico/Instituto Tecnologico de Chihuahua
-  Paper under review
 ```
 **New Task Generation Scheme (NTDS)**
 <br/>Meta- and Base-Tasks generated for the Mini-ImageNet and Caltech-UCSD Birds-200-2011 (CUB) datasets
